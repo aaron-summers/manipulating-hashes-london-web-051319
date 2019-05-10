@@ -8,6 +8,10 @@ def second_challenge
 
   #code your solution here!
 
-  return groceries.values
+  list = []
+  
+  list << groceries.value
+  
+  return list
 
 end
