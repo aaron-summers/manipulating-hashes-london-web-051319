@@ -8,6 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  groceries.values
-
+  groceries.collect do |x|
+    x.values
+  end
 end
