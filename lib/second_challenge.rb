@@ -10,7 +10,7 @@ def second_challenge
 
   list = []
   
-  list << groceries.value
+  list << groceries.values
   
   return list
 
