@@ -7,5 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.flatten
+  array = []
+  array << groceries.flatten
 end
